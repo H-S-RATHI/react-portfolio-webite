@@ -24,7 +24,7 @@ const Footer = () => {
         <a href="https://twiter.com"><IoLogoTwitter/></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; EGATOR Tutorials. All rights reserved.</small>
+        <small>&copy; All rights reserved.</small>
       </div>
     </footer>
   );
